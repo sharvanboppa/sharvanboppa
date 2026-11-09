@@ -29,7 +29,7 @@
 ### 1. AI-Powered Customer Support Chatbot
 A chatbot project designed to assist customers and support price negotiation through an interactive interface.
 
-**Technologies:** HTML, CSS, JavaScript, NLP concepts
+**Technologies:** HTML, CSS, JavaScript, NLP Concepts
 
 ### 2. Salary Prediction System
 A machine learning project that predicts salary values using a trained regression model.
@@ -40,6 +40,11 @@ A machine learning project that predicts salary values using a trained regressio
 A machine learning application designed to predict business profit based on investment-related inputs.
 
 **Technologies:** Python, Multiple Linear Regression, HTML, CSS
+
+### 4. House Price Prediction
+A Machine Learning-based web application that predicts house prices based on various property features such as location, bedrooms, bathrooms, living area, and other housing details. It uses a trained regression model to generate estimated property prices through an interactive Flask web application.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Linear Regression, Flask, HTML, CSS, Pickle
 
 ## 📚 Currently Learning
 
@@ -55,9 +60,9 @@ I'm interested in entry-level opportunities in Python Development, Data Science,
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/sharvan-boppa
-- 📧 Email: boppasharvan024@gmail.com 
-- 🐙 GitHub: https://github.com/sharvanboppa024
+- 💼 LinkedIn: [linkedin.com/in/sharvan-boppa](https://www.linkedin.com/in/sharvan-boppa)
+- 📧 Email: boppasharvan024@gmail.com
+- 🐙 GitHub: [github.com/sharvanboppa024](https://github.com/sharvanboppa024)
 
 ---
 
